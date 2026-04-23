@@ -1,0 +1,10 @@
+C:\Users\judel\source\repos\TicketApplicationSystem\TicketApplicationSystem\bin\Debug\TicketApplicationSystem.exe.config
+C:\Users\judel\source\repos\TicketApplicationSystem\TicketApplicationSystem\bin\Debug\TicketApplicationSystem.exe
+C:\Users\judel\source\repos\TicketApplicationSystem\TicketApplicationSystem\bin\Debug\TicketApplicationSystem.pdb
+C:\Users\judel\source\repos\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\TicketApplicationSystem.csproj.AssemblyReference.cache
+C:\Users\judel\source\repos\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\TicketApplicationSystem.Properties.Resources.resources
+C:\Users\judel\source\repos\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\TicketApplicationSystem.csproj.GenerateResource.cache
+C:\Users\judel\source\repos\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\TicketApplicationSystem.csproj.CoreCompileInputs.cache
+C:\Users\judel\source\repos\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\TicketApplicationSystem.exe
+C:\Users\judel\source\repos\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\TicketApplicationSystem.pdb
+C:\Users\judel\source\repos\TicketApplicationSystem\TicketApplicationSystem\obj\Debug\TicketApplicationSystem.Form1.resources
