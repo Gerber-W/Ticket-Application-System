@@ -15,7 +15,7 @@ Category Three: R50 Per km
 Passengers under 12 receive a free ticket.  
 Female passengers receive a 50 percent discount on the final ticket price.  
 
-##Goal Accoplished
+## Goal Accoplished
 When all info whas entered it display the charge for the ticket for the distance and the discounts that are added for if you are a female.
 When the age is entered for someone under the age of 12 all tickets are free
 WWhen any information is left out for example gender or distance you will be prompted to please enter information
